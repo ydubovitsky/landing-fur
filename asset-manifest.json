@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/landing-fur/static/css/main.e143dc83.css",
+    "main.js": "/landing-fur/static/js/main.0e2e04ac.js",
+    "static/js/787.4c6c5b9d.chunk.js": "/landing-fur/static/js/787.4c6c5b9d.chunk.js",
+    "static/media/background.jpg": "/landing-fur/static/media/background.2876f01400a021b760dc.jpg",
+    "static/media/logo.svg": "/landing-fur/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/landing-fur/index.html",
+    "main.e143dc83.css.map": "/landing-fur/static/css/main.e143dc83.css.map",
+    "main.0e2e04ac.js.map": "/landing-fur/static/js/main.0e2e04ac.js.map",
+    "787.4c6c5b9d.chunk.js.map": "/landing-fur/static/js/787.4c6c5b9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e143dc83.css",
+    "static/js/main.0e2e04ac.js"
+  ]
+}
